@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "braintree": "^3.7.0",
+    "braintree-web-drop-in-react": "^1.2.1",
+    "moment": "^2.29.1",
+    "query-string": "^7.0.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
